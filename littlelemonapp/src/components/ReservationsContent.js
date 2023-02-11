@@ -77,7 +77,7 @@ function ReservationsContent() {
             </div>
             <div className="form">
                 <h1>Reserve a Table</h1>
-                <p>Please fill in and submit form to book your reservation at Little Lemon.</p>
+                <p>Please fill in and submit this form to book your reservation at Little Lemon.</p>
                 <form onSubmit={onSubmitHandler}>
                     <fieldset>
                         <div className="field">
@@ -104,7 +104,7 @@ function ReservationsContent() {
                             <label htmlFor="telephone">Telephone</label>
                             <input
                                 type="tel"
-                                placeholder="+233000000000"
+                                placeholder="+886000000000"
                                 name="telephone"
                                 onChange={onChangeHandler}
                             />

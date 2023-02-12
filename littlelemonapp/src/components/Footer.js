@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-background">
             <div className="footer-container">
                 <img src={ Logo } alt="Little Lemon logo" />
-                <p>Little Lemon is a charming neighborhood bistro that serves simple food and classic cocktails in a lively but casual environment. The restaurant features a locally sourced menu with daily specials.</p>
+                <p>Little Lemon is a charming neighborhood bistro that serves comfort foods and classic cocktails in a lively but casual environment. The restaurant features a locally sourced menu with daily specials.</p>
                 <div className="footer-content">
                     <div className="locations">
                         <h5>LOCATIONS</h5>
@@ -33,7 +33,7 @@ const Footer = () => {
                             <li>1213 S Wabash Ave, Chicago,</li>
                             <li>IL 60506, United States</li>
                             <li>Tel: +1 312-212-1113</li>
-                            <li>Email: info@littlelemon.com</li>
+                            <li>Email: tasty@littlelemon.com</li>
                         </ul>
                     </div>
             </div>

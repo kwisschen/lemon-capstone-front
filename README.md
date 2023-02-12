@@ -1,1 +1,1 @@
-# Meta-Capstone
+# Capstone for Little Lemon Restaurant

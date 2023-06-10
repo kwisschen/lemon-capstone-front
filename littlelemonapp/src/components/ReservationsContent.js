@@ -24,10 +24,10 @@ function ReservationsContent() {
     const validateForm = () => {
         let err = {}
         if (formData.name === "") {
-            err.name = "* Full name required!" 
+            err.name = "* Full name required!"
         }
         if (formData.email === "") {
-            err.email = "* Email required!" 
+            err.email = "* Email required!"
         }else{
             let regex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/
             if(!regex.test(formData.email)) {
@@ -37,7 +37,7 @@ function ReservationsContent() {
 
 
         if (formData.telephone === "") {
-            err.telephone = "* Phone number required!" 
+            err.telephone = "* Phone number required!"
         }else{
             let phoneRegex = /^(?:(?:\(?(?:00|\+)([1-4]\d\d|[1-9]\d+)\)?)[\-\.\ \\\/]?)?((?:\(?\d{1,}\)?[\-\.\ \\\/]?)+)(?:[\-\.\ \\\/]?(?:#|ext\.?|extension|x)[\-\.\ \\\/]?(\d+))?$/i
             if(!phoneRegex.test(formData.telephone)) {
@@ -47,10 +47,10 @@ function ReservationsContent() {
 
 
         if (formData.guests === "") {
-            err.guests = "* Please specify number of guests!" 
+            err.guests = "* Please specify number of guests!"
         }
         if (formData.date === "") {
-            err.date = "* Please specify date and time!" 
+            err.date = "* Please specify date and time!"
         }
 
         setFormError({...err})
@@ -129,16 +129,16 @@ function ReservationsContent() {
                                     placeholder="0"
                                     name="guests"
                                     onChange={onChangeHandler}
-                                /> 
+                                />
                                 <span className="non-valid">{formError.guests}</span>
                             </div>
-                            
+
                         </div>
-                        
+
                         <div className="field">
                                 <label htmlFor="date">Date & Time</label>
-                                <input 
-                                    type="datetime-local" 
+                                <input
+                                    type="datetime-local"
                                     name="date"
                                     onChange={onChangeHandler}
                                 />

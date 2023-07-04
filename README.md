@@ -1,4 +1,4 @@
-# React project for fictitious restaurant called 'The Little Lemon.'
+# React project in JavaScript for fictitious restaurant called 'The Little Lemon.'
 
 ### How to view the project:
 1. **Clone repo**

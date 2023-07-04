@@ -7,5 +7,5 @@
 
 3. **Run 'npm start'**
 
-and...Voila!
+and...Voila! Enjoy your imaginary meal!
 

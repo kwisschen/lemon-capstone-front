@@ -1,4 +1,4 @@
-# React project in JavaScript for fictitious restaurant called 'The Little Lemon' w/ reserve-a-table feature
+# React project in JavaScript for fictitious restaurant called 'The Little Lemon' (w/ reserve-a-table feature)
 
 ### How to view the project:
 1. **Clone repo**

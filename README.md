@@ -1,1 +1,1 @@
-# Capstone for Little Lemon Restaurant
+# Capstone project for a fictitious restaurant called 'The Little Lemon.'

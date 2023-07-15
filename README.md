@@ -7,5 +7,7 @@
 
 3. **Run 'npm start'**
 
+4. **Visit the URL 'On Your Network' to bypass any 401 errors**
+
 and...Voila! Enjoy your imaginary meal!
 

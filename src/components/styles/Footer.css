@@ -13,7 +13,7 @@
 
 .footer-container p {
     width: 60%;
-    margin: 10px 0 60px;
+    margin: 10px 0 40px;
     
 }
 
@@ -23,7 +23,7 @@
 
 .footer-content {
     display: grid;
-    grid-template-columns: 20% 40% 40%;
+    grid-template-columns: 35% 35% 35%;
     gap: 20px;
     font-size: 16pt;
     margin-bottom: 60px;

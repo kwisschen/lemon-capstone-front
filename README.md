@@ -3,7 +3,7 @@
 ### How to view the project:
 1. **Clone repo**
 
-2. **Run 'npm install' in the terminal (under the correct directory)**
+2. **Run 'npm install' in the terminal (under the appropriate directory)**
 
 3. **Run 'npm start'**
 

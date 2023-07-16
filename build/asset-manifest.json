@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/lemon-frontend/static/css/main.5e5eb00c.css",
+    "main.js": "/lemon-frontend/static/js/main.2bb70624.js",
+    "static/media/bruschetta1.jpg": "/lemon-frontend/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
+    "static/media/salad.jpg": "/lemon-frontend/static/media/salad.00b1567f5a694e5c3945.jpg",
+    "static/media/creme.jpg": "/lemon-frontend/static/media/creme.3a9eaace5be031d2d7a0.jpg",
+    "static/media/gourmet.jpg": "/lemon-frontend/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
+    "static/media/logo.jpg": "/lemon-frontend/static/media/logo.7aa41df0270b68cbabda.jpg",
+    "index.html": "/lemon-frontend/index.html",
+    "main.5e5eb00c.css.map": "/lemon-frontend/static/css/main.5e5eb00c.css.map",
+    "main.2bb70624.js.map": "/lemon-frontend/static/js/main.2bb70624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e5eb00c.css",
+    "static/js/main.2bb70624.js"
+  ]
+}

@@ -11,3 +11,8 @@
 
 and...Voila! Enjoy your meal!
 
+![Screenshot of Mangata & Gallo Homepage](./assets/lemon-home.png)
+
+
+![Screenshot of Mangata & Gallo Homepage](./assets/lemon-reservation.png)
+

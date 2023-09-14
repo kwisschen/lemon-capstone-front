@@ -7,8 +7,6 @@
 
 3. **Run 'npm start'**
 
-4. **Visit the URL 'On Your Network' to bypass any 401 errors from localhost**
-
 and...Voila! Enjoy your meal!
 
 ![Screenshot of the Little Lemon Homepage](src/components/assets/lemon-home.png)
